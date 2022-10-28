@@ -16,3 +16,10 @@ My thesis is oriented to 3 main goals:
 - :sun_with_face: Fun fact: I love listening to rock, soul and blues music and reading Russian novels.
 
 ## Language and tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height=50 width=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height=50 width=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height=50 width=50/>
+
+          
+          
+          
+          
+                    
