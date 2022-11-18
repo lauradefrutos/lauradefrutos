@@ -1,7 +1,7 @@
 
 # Hi there, I'm Laura! 👋
 
-I'm a PhD candidate at the Neurobiology of Language research group at the Basque center on Cognition, Brain and Language (BCBL) in San Sebastián - Donostia (Spain). 
+I'm a PhD candidate at the [Neurobiology of Language](https://twitter.com/NeuroLang_BCBL) research group at the [Basque center on Cognition, Brain and Language (BCBL)](https://www.bcbl.eu/es/investigacion/grupos-de-investigacion/neurobiologa-lenguaje) in [San Sebastián - Donostia](https://www.sansebastianturismoa.eus/es/) (Spain). 
 My thesis is oriented to 2 main goals:
 - :hospital: Develop an intraoperative protocol for awake patient surgery technique in patients with right hemisphere brain tumors.
 - :books: Investigate how a brain lesion in the right hemisphere affects the social cognition processes and the personality of the patient.
@@ -18,6 +18,9 @@ My thesis is oriented to 2 main goals:
 ## Language and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height=50 width=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height=50 width=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height=50 width=50/>
 
+## Tecnhical abilities
+- MRI and MEG imaging techniques.
+- Experience recording data with patients with intracranial electrodes.
           
           
           
