@@ -13,7 +13,7 @@ My thesis is oriented to 2 main goals:
 - :mailbox: How to reach me: l.defrutos@bcbl.eu
 - :bird: Social media: [@laura3141592]( https://twitter.com/laura3141592?t=07ylNOY2Bha5Xtcf_pIEEw&s=08)
 - :woman: Pronouns: she/her
-- :sun_with_face: Fun fact: I love listening to rock, soul and blues music and reading Russian novels.
+- :musical_score: David Bowie, Greta van Fleet and Elton John are my all time favorite artists.
 
 ## Programming languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height=50 width=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height=50 width=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height=50 width=50/>
