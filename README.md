@@ -11,6 +11,7 @@ My thesis is oriented to 2 main goals:
 - :seedling: I’m currently learning the basis of social cognition processes.
 - :dancers: I’m looking to collaborate on structural and functional analysis
 - :mailbox: How to reach me: l.defrutos@bcbl.eu
+- :bird: Social media: [@laura3141592]( https://twitter.com/laura3141592?t=07ylNOY2Bha5Xtcf_pIEEw&s=08)
 - :woman: Pronouns: she/her
 - :sun_with_face: Fun fact: I love listening to rock, soul and blues music and reading Russian novels.
 
