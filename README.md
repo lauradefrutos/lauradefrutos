@@ -8,8 +8,8 @@ My thesis is oriented to 2 main goals:
 
 ## About me
 - :bulb: I’m currently working on processing structural MRI images from patients with brain tumors.
-- :seedling: I’m currently learning the basis of social cognition processes.
-- :dancers: I’m looking to collaborate on structural and functional analysis
+- :seedling: I’m currently learning the basis of social cognition processes and how to process MRI structural and functional images.
+- :dancers: I’m looking to collaborate on structural and functional MRI data analysis
 - :mailbox: How to reach me: l.defrutos@bcbl.eu
 - :bird: Social media: [@laura3141592]( https://twitter.com/laura3141592?t=07ylNOY2Bha5Xtcf_pIEEw&s=08)
 - :woman: Pronouns: she/her
