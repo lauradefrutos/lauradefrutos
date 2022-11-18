@@ -15,12 +15,13 @@ My thesis is oriented to 2 main goals:
 - :woman: Pronouns: she/her
 - :sun_with_face: Fun fact: I love listening to rock, soul and blues music and reading Russian novels.
 
-## Language and tools
+## Programming languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height=50 width=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height=50 width=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height=50 width=50/>
 
 ## Tecnhical abilities
-- MRI and MEG imaging techniques.
-- Experience recording data with patients with intracranial electrodes.
+- Qualified user of MRI and MEG imaging techniques.
+- Experience recording MRI data with childre.
+- Experience recording data from patients with intracranial electrodes.
           
           
           
